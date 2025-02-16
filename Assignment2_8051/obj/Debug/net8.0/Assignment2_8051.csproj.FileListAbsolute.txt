@@ -1,0 +1,14 @@
+C:\Users\chara\source\repos\Assignment2_8051\bin\Debug\net8.0\Assignment2_8051.exe
+C:\Users\chara\source\repos\Assignment2_8051\bin\Debug\net8.0\Assignment2_8051.deps.json
+C:\Users\chara\source\repos\Assignment2_8051\bin\Debug\net8.0\Assignment2_8051.runtimeconfig.json
+C:\Users\chara\source\repos\Assignment2_8051\bin\Debug\net8.0\Assignment2_8051.dll
+C:\Users\chara\source\repos\Assignment2_8051\bin\Debug\net8.0\Assignment2_8051.pdb
+C:\Users\chara\source\repos\Assignment2_8051\obj\Debug\net8.0\Assignment2_8051.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chara\source\repos\Assignment2_8051\obj\Debug\net8.0\Assignment2_8051.AssemblyInfoInputs.cache
+C:\Users\chara\source\repos\Assignment2_8051\obj\Debug\net8.0\Assignment2_8051.AssemblyInfo.cs
+C:\Users\chara\source\repos\Assignment2_8051\obj\Debug\net8.0\Assignment2_8051.csproj.CoreCompileInputs.cache
+C:\Users\chara\source\repos\Assignment2_8051\obj\Debug\net8.0\Assignment2_8051.dll
+C:\Users\chara\source\repos\Assignment2_8051\obj\Debug\net8.0\refint\Assignment2_8051.dll
+C:\Users\chara\source\repos\Assignment2_8051\obj\Debug\net8.0\Assignment2_8051.pdb
+C:\Users\chara\source\repos\Assignment2_8051\obj\Debug\net8.0\Assignment2_8051.genruntimeconfig.cache
+C:\Users\chara\source\repos\Assignment2_8051\obj\Debug\net8.0\ref\Assignment2_8051.dll
